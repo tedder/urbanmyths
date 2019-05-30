@@ -8,6 +8,7 @@
 - Cyclists don't ride in the heat/rain/bad weather.
 - Not everyone can ride a bike.
 - I ride a bike too.
+- Lance Armstrong/Spandex
 
 # Cars, Traffic
 - Roads were built for cars.
